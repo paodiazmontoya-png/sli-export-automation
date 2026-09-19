@@ -49,7 +49,8 @@ flowchart LR
     G --> I[DOCX]
     G --> J[PDF]
 
-# How It Works
+
+How It Works
 
 1. Commercial Invoice Analysis
 A Gemini Gem receives the Commercial Invoice and extracts shipment information that is clearly supported by the document.
