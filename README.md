@@ -580,9 +580,7 @@ Possible next steps include:
 
 Procurement & International Logistics professional interested in:
 
-- Artificial Intelligence
-- Data Analytics
-- Process Automation
+- Learning Artificial Intelligence and Data Analytics
 - Procurement
 - International Logistics
 - Supply Chain
