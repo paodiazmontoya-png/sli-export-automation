@@ -1,0 +1,15 @@
+Commercial Invoice
+        ↓
+Gemini Gem
+        ↓
+Validation
+        ↓
+Structured JSON
+        ↓
+Google Sheets
+        ↓
+Google Apps Script
+        ↓
+SLI
+        ↓
+Google Doc + DOCX + PDF
