@@ -561,19 +561,6 @@ That has been one of the most important lessons from this project:
 
 ---
 
-## Future Improvements
-
-Possible next steps include:
-
-- Reducing manual transfer of JSON into Google Sheets.
-- Creating additional automated QA checks.
-- Improving shipment history and traceability.
-- Adding structured error reporting.
-- Creating dashboards for shipment automation metrics.
-- Expanding the workflow to other repetitive international logistics documents.
-
----
-
 ## About Me
 
 **Paola Andrea Díaz Montoya**
