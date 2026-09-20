@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.3",
+  "status": "READY_FOR_AUTOMATION",
+  "shipment_id": "SAMPLE-001",
+  "source_invoice_filename": "sample-commercial-invoice.pdf",
+  "sli": {
+    "box_1_exporter_name": "Example Exporter Inc.",
+    "box_2_exporter_address": "100 Example Street, Dallas, TX 75001, USA",
+    "box_3_freight_location_company": "Example Logistics Warehouse",
+    "box_4_freight_location_address": null,
+    "box_5_state_of_origin": "Texas",
+    "box_6_exporter_ein": "XX-XXXXXXX",
+    "box_7_exporter_reference": "INV-SAMPLE-001",
+    "box_11_ultimate_consignee": "Example Consignee Ltd., Bogota, Colombia",
+    "box_13_intermediate_consignee": null,
+    "box_14_country_destination": "Colombia",
+    "box_17_entry_number": null,
+    "box_18_in_bond_code": null,
+    "box_19_ftz_identifier": null,
+    "instructions_to_forwarder": null,
+    "cargo_insurance_requested": true,
+    "cargo_insurance_amount_usd": 10000,
+    "named_place_or_port": "Bogota, Colombia",
+    "commodities": [
+      {
+        "country_of_manufacture": "Taiwan",
+        "box_20_origin": "Foreign",
+        "box_21_hts_or_schedule_b": "0000.00.0000",
+        "box_21_description": "Sample Electronic Equipment",
+        "box_22_quantity": 100,
+        "box_23_unit": "Piece",
+        "box_24_shipping_weight_kg": null,
+        "box_25_export_classification": "SAMPLE",
+        "box_26_sme": "N",
+        "box_27_export_authorization": "SAMPLE",
+        "box_28_value_usd": 10000,
+        "box_29_license_value_usd": null
+      }
+    ],
+    "box_40_date": "09/19/2026"
+  },
+  "missing_fields": [],
+  "conflicts": [],
+  "source_trace": {
+    "sli.box_1_exporter_name": "Commercial Invoice",
+    "sli.box_14_country_destination": "Commercial Invoice",
+    "sli.commodities[0].box_21_hts_or_schedule_b": "User Provided",
+    "sli.commodities[0].box_27_export_authorization": "User Provided"
+  }
+}
+
